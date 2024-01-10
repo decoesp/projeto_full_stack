@@ -19,8 +19,7 @@ cd projeto_full_stack
 Passo 2: Ative o ambiente virtual para o backend: 
 
 ```sh
-source ambiente_backend/bin/activate  # Exemplo para Linux/Mac
-ambiente_backend\Scripts\activate     # Exemplo para Windows
+source ambiente_backend/bin/activate 
 ```
 
 Passo 3: No diretório backend, instale as dependências do Python:
