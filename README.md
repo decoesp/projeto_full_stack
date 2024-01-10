@@ -42,4 +42,5 @@ npm run serve
 ```
 
 ## Considerações Finais
-Certifique-se de ter os requisitos necessários instalados (Node.js, Python, etc.). Caso encontre problemas, verifique se as portas especificadas nos arquivos de configuração (Vue.js e Flask) não estão em uso por outras aplicações. Ao acessar a aplicação no navegador, o frontend estará disponível em http://localhost:8080 e o backend em http://localhost:5000.
+Certifique-se de ter os requisitos necessários instalados (Node.js, Python, etc.). Caso encontre problemas, verifique se as portas especificadas nos arquivos de configuração (Vue.js e Flask) não estão em uso por outras aplicações. Ao acessar a aplicação no navegador, o frontend estará disponível em http://localhost:8080 e o backend em http://localhost:5000. Aqui está o arquivo de exemplo para teste: [modelo-teste-full-stack.xlsx](https://github.com/decoesp/projeto_full_stack/files/13892838/modelo-teste-full-stack.xlsx)
+
